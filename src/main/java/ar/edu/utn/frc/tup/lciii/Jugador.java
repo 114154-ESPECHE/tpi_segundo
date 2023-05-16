@@ -7,4 +7,6 @@ public class Jugador {
     private Pieza piezaColor;
     private Turno turno;
 
+    public Jugador(String nombreJugador, String piezColor) {
+    }
 }

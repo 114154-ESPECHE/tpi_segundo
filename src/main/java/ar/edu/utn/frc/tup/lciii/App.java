@@ -1,5 +1,8 @@
 package ar.edu.utn.frc.tup.lciii;
 import lombok.Data;
+
+import java.util.ArrayList;
+
 /**
  * Hello to TPI Chess
  */
@@ -13,5 +16,6 @@ public class App {
 
         Juego j1 = new Juego();
         j1.jugar();
+        System.out.println("Gracias por jugar!");
     }
 }
