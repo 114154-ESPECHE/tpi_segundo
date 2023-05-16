@@ -37,7 +37,7 @@ public class Juego {
                 banderaNegro = true;
             }
         }
-        Jugador j1 = new Jugador(nombreJugador,piezColor);
+        Jugador j1 = new Jugador(nombreJugador,piezaColor);
         System.out.println("Ingrese nombre Jugador 2:");
         String nombJugador2 = sc.nextLine();
         if (banderaBlanco){
