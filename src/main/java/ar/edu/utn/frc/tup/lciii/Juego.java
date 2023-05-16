@@ -10,4 +10,8 @@ public class Juego {
     private Resultad resultad;
     //private chequearEstado;
 
+
+    public void jugar(){
+
+    }
 }
