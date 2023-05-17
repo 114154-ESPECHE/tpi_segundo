@@ -10,3 +10,7 @@ https://account.jetbrains.com/licenses
 
 Clonar la repo
 crear su rama formato "ramaNombre"
+
+
+repo ajedrez completo:
+https://github.com/beakman/ajedrez
